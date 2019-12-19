@@ -1,0 +1,48 @@
+{
+    "name": "Privacy Rights Clearinghouse",
+    "description": "Privacy Rights Clearinghouse is a California nonprofit corporation with 501(c)(3) tax exempt status. Our mission is to engage, educate and empower individuals to protect their privacy. We identify trends and communicate our findings to advocates, policymakers, industry, media and consumers.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/privacy-rights-clearinghouse-logo.jpg",
+    "tags": [
+        "have api",
+        "privacy"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/privacy-rights-clearinghouse\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Privacy Rights Clearinghouse",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/privacy-rights-clearinghouse-logo.jpg",
+            "humanURL": "https:\/\/www.privacyrights.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/privacy-rights-clearinghouse-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/privacy-rights-clearinghouse-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.privacyrights.org\/rss.xml"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/privacytoday"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.privacyrights.org\/"
+        }
+    ]
+}
